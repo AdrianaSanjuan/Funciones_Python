@@ -1,2 +1,2 @@
 # Funciones_Python
- Funciones lambda y bucles avanzados
+ Repositorio de bucles avanzados y funciones lambda
